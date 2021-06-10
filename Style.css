@@ -1,0 +1,51 @@
+body{
+  text-align:center;
+    padding-top: 50px;
+    color:#18FFFF;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(blue, cyan);
+}
+#coding {
+    border-style:solid;
+  border-color:#689F38
+  border: 1px 
+  border-radius: 80px;
+  padding: 5px;
+  width: 350px;
+}
+h2{
+    font-size: 20px;
+    font-family: futura;
+    text-shadow: 2px 2px #304FFE;
+
+}
+
+h1 {
+    font-size: 35px;
+    font-family: futura;
+    text-shadow: 2px 2px #536DFE;
+
+}
+#hobby{
+  padding:20px;
+  text-align: center;
+  font-size: 18px;
+  font-family: futura;
+  color: black;
+}
+
+#book {
+    border-style:solid;
+  border-color:#689F38
+  border: 1px 
+  border-radius: 80px;
+  padding: 5px;
+  width: 350px;
+}
+img:hover{
+    transform: scale(0.9)
+}
+img{
+    transition: transform 0.2s;
+    height: 300px
+}
